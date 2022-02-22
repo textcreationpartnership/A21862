@@ -1,0 +1,140 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the Queene. Elizabeth by the grace of God [et]c. To our right trustie and right welbeloued counsellor, William Lord Burghley our high treasorer of England  ...</title>
+            <title>Proclamations. 1590-03-13</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1590</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21862</idno>
+            <idno type="STC">STC 8193</idno>
+            <idno type="STC">ESTC S115424</idno>
+            <idno type="EEBO-CITATION">99850643</idno>
+            <idno type="PROQUEST">99850643</idno>
+            <idno type="VID">15862</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15862)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 565:57, 565:58)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the Queene. Elizabeth by the grace of God [et]c. To our right trustie and right welbeloued counsellor, William Lord Burghley our high treasorer of England  ...</title>
+                  <title>Proclamations. 1590-03-13</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>3 leaves   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>[Imprinted at London :</pubPlace>
+                  <date>1589 [i.e. 1590]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In 2 parts.</note>
+                  <note>Part 2 has caption title: Certaine orders deuised and set downe by the Queenes most excellent Maiestie, .. touching the making of wollen cloth within the counties of Suffolke, Norfolke, and Esex, graunted by her Maiestie the xiij. of March, in the xxxii. yeere of her Highnesse raigne.</note>
+                  <note>Imprint from colophon of part 2. Year in imprint is according to Lady Day dating.</note>
+                  <note>Granting relief to the clothiers in the orders appended.--STC.</note>
+                  <note>Part 2 formerly identified as STC 8194.</note>
+                  <note>Part 2 identified as STC 8194 on UMI microfilm, reel 565.</note>
+                  <note>Reproductions of the originals in the Bodleian Library.</note>
+                  <note>Appears at position 57 (part 1) and position 58 (part 2) on UMI microfilm, reel 565.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burghley, William Cecil, --  Bacon, 1520-1598 --  Early works to 1800.</term>
+               <term>Wool industry --  England --  Early works to 1800.</term>
+               <term>England --  Proclamations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:15862:1"/>
+            <!-- PDF PAGE 8 -->
+            <head>
+               <g ref="char:leaf">❧</g> By the Queene.</head>
+            <opener>
+               <signed>
+                  <seg rend="decorInit">E</seg>Lizabeth by the grace of God &amp;c.</signed>
+               <salute>To our right truſtie and right welbe<g ref="char:EOLhyphen"/>loued Counſellor, William Lord Burghley our high Treaſorer of Eng<g ref="char:EOLhyphen"/>land, To all our Iudges of all our Courts at Weſtminſter, to the Ba<g ref="char:EOLhyphen"/>rons of our Exchequer, to all olther Iudges in any Court of Recorde within our Realme of England, and to all Maiors, Shirifes, Cuſto<g ref="char:EOLhyphen"/>mers and Comptrollers of our Ports, Alnagers, Searchers, and all others our officers and miniſters whatſoeuer, and to all others to whom it ſhall appertaine, greeting.</salute>
+            </opener>
+            <p>Whereas humble ſute and petition hath of long time ben made vnto vs by our louing Subiectes the Clo<g ref="char:EOLhyphen"/>thiers Suffolke, Norffolk, and Eſſex, for ſome reaſonable mitigation and tolleration of the ſtrictneſſe of the Statutes now ſtanding in force, touching the making of clothes within the ſame Counties: And namely one ſtatute made in the fifth and ſixth yeeres of the raigne of King Edward the ſixth, intituled an Acte for the true making of wollen Cloth, and one other ſtatute made in the fourth and fifth yeeres of the raignes of King Philip and Queene Mary, intituled an Act touching the making of wollen Clothes, which as we are credible informed, are by experience found to be ſuch as the makers of the ſaid Clothes cannot by any meanes preciſely and fully performe and obſerue, albeit they haue endeuoured themſelues thereunto according to their beſt ſkill and induſtrie, and aſmuch as in them did lie: And ſo the ſaid Clotheiers in extremitie of lawe, haue incurred, and do dayly incurre the danger of the penal<g ref="char:EOLhyphen"/>ties and forfeitures limitted in and by the ſaid Statutes, for which many of them haue ben impleaded and ſued, and otherwiſe grieuouſly moleſted and vexed by informers and ſearchers: By reaſon where<g ref="char:EOLhyphen"/>of they haue forſaken and left their trade, to the great decay of cloth making within the ſaid Counties, and to the impoueriſhment and vtter vndoing of great nombers of poore people there, which heretofore haue ben releeued and ſet on worke by the ſame; A matter likely to growe to further inconuenience, if ſome ſpeedy courſe be not taken for redreſſe thereof. Whereupon we, of our Princely and godly diſpoſiti<g ref="char:EOLhyphen"/>on hauing a moſt tender care and regarde of our ſaid good and louing ſubiects, and deſiring as much as in vs lyeth, to prouide conuenient and ſpeedie reliefe for them, in that behalfe: haue by the aduiſe of the Lords and others of our priuie Counſell, who haue had the examination thereof, and with great deliberation haue cauſed certaine orders to be deuiſed &amp; ſet downe for mitigation of the extremities &amp; ſtrictnes of the ſaid ſtatutes, and for tolleration with the ſaid Clothiers for &amp; concerning the ſame, ſo as they ſhould not be vexed with any ſutes by informatio<g ref="char:cmbAbbrStroke">̄</g>s or actions, as long as they ſhal obſerue the ſaid orders, which ſaid orders we haue cauſed to be hereunto annexed: Straightly charging &amp; commanding aſwel the Clothiers aforeſaid, as alſo all others to whom it ſhal or may in any wiſe appertaine, duely to obſerue and performe the ſame in all things. And our expreſſe wil and pleaſure is, that none of the Clo<g ref="char:EOLhyphen"/>thiers within our ſaid counties of Suff. Norff. &amp; Essex, which ſhall fully and truly in all things obſerue, fulfill, and accompliſh the ſaid orders according to the effect and true meaning of the ſame, ſhall in any wiſe be ſued, impeached, troubled or moleſted by any Alnager, ſearcher or informer, or any other perſon or perſons whatſoeuer, for or by reaſon of the breach or not performing of the ſaid ſtatutes or any of the<g ref="char:cmbAbbrStroke">̄</g>, or for or concerning any forfeiture or penaltie therein conteined: which we require you all to ſee obeſer<g ref="char:EOLhyphen"/>ued in al Courts, where any perſon ſhal offer to implead them, contrary to the good intention of the ſaid orders. And theſe tollerations to endure during our pleaſure, or vntil by Parliament the ſame may be further conſidered and eſtabliſhed, as the like prouiſion hath ben made for Weſterne cloths in the xxvii. yeer of our raigne. We wil alſo that at the requeſt of the clothiers of Suff. Norff. &amp; Essex or any of them, the orders hereunto annexed ſhalbe publiſhed and fixed vp in our city of London, in places conuenient, and likewiſe publiſhed in ſuch market &amp; port Towns as ſhalbe thought needful in the ſaid Counties. Al which ſhal be done by order &amp; direction of our priuie Counſel, as they ſhal think meete from time to time.</p>
+            <closer>
+               <dateline>Giuen vnder our ſignet at our Mannor of Greenewich <date>the xiii, day of March, in the xxxii, yere of our Raigne.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
